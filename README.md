@@ -27,7 +27,6 @@ you can call me Chandra. I am a front end developer
 
 ### Let's connect!
 <p>
-    <a href="https://chandralaksana225.wixsite.com/chandralksn/" target="blank"><img src="https://img.shields.io/badge/Website-https://chandralaksana225.wixsite.com/chandralksn/?" /></a>
     <a href="https://www.linkedin.com/in/chandra-lksn/" target="blank"><img src="https://img.shields.io/badge/Chandra_lksn-30302f?style=flat&logo=linkedin" /></a>
 </p>
 
