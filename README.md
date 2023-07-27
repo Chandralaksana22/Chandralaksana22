@@ -1,5 +1,6 @@
-# Hi there 👋 , I'm Bagus!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+# Hi there 👋 , I'm Chandra!
+you can call me Chandra. I am a front end developer
+  
 
 ### Tools:
 <p>
