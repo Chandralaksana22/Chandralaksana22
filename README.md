@@ -1,11 +1,4 @@
-# Hi there 👋 , I'm Chandra!
-you can call me Chandra. I am a front end developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandralaksana22&label=Profile%20views&color=0e75b6&style=flat" alt="chandralaksana22" /> </p>
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+# Hi there 👋 , I'm Chandra! I am a front end developer
 
 ### Stats:
 <details>
@@ -31,3 +24,4 @@ you can call me Chandra. I am a front end developer
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandralaksana22&label=Profile%20views&color=0e75b6&style=flat" alt="chandralaksana22" /> </p>
