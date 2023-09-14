@@ -17,10 +17,7 @@
 </p>
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandralaksana22&theme=solarized_dark)
-<p>
-    <a href="https://www.linkedin.com/in/chandra-lksn/" target="blank"><img src="https://img.shields.io/badge/Chandra_lksn-30302f?style=flat&logo=linkedin" /></a>
-</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandralaksana22&label=Profile%20views&color=0e75b6&style=flat" alt="chandralaksana22" /> </p>
