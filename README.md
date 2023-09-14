@@ -15,7 +15,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=chandralaksana22&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandralaksana22&layout=compact" height=180 />
 </p>
-<a href="http://www.github.com/chandralaksana22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandralaksana22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandralaksana22&theme=solarized_dark)
